@@ -11,8 +11,12 @@ header {
   border-bottom: 1px solid #2A3244;
 }
 
-h1, h2 {
+h1 {
   color: #F5C542;
+}
+
+h2 {
+  color: #f5c542;
 }
 
 p {
@@ -62,4 +66,5 @@ img {
   float: left;
   height: auto;
   border-radius: 10px;
+  margin-right: 20px;
 }
